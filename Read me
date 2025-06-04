@@ -1,0 +1,10 @@
+cat > .gitignore <<EOL
+node_modules
+build
+.env
+EOL
+
+cat > README.md <<EOL
+# My App
+This is a simple fullstack app with AI message validation.
+EOL
